@@ -34,12 +34,12 @@ And as soon as the proposal gets accepted you will see the "In review" tag repla
 
 
 # Tracking the status of a Proposal 🕒
-Once your proposal gets accepted you can track the progress and updates about the proposal in our public roadmap board, which you can find here (https://github.com/orgs/tatumio/projects/6/views/1).
+Once your proposal gets accepted you can track the progress and updates about the proposal in our public roadmap board, which you can [find here](https://github.com/orgs/tatumio/projects/6/views/1).
 
 # Upvoting/Downvoting a current Proposal 👍
 While you are curious about a specific feature request and you might be on way to create a proposal it might be the case that it might have already been requested and in that case we recommend you to participate in the discussions of the issue & upvote a proposal if you liked.
 
 Visit here for the list of porposals.
-(https://github.com/tatumio/roadmap/discussions)
+[link](https://github.com/tatumio/roadmap/discussions)
 
 # Code of Conduct 👍
