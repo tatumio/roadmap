@@ -7,13 +7,13 @@ We at Tatum foster building products that developers love & that's why we have t
 # Creating a Proposal on the Board 📃
 Here how you can create a proposal for the roadmap in less then x steps
 
-Step 1:  Go to the Issues in this repo by clicking this link (https://github.com/tatumio/roadmap/issues)
+Step 1:  Go to Discussions in this repo by clicking this link (https://github.com/tatumio/roadmap/discussions)
 
-Step 2: Click on the new Issue button, (Insert Image)
+Step 2: Click on the New Discussion button, (Insert Image)
 
-Step 3: Use this template to create your proposal
+Step 3: Select the appropriate category, Like Feature Requests, Bug Request or Ask for help (If you need some help with your code).
 
-Step 4: Finally Just click the Submit new Issue button to submit the proposal.
+Step 4: Finally Just click the Start Discussion to submit the proposal.
 
 # What happens when you create a Proposal 🤔
 So as soon as you create a proposal one of our Developer Evangalists picks it up & adds the labels "In review" tag.
@@ -29,6 +29,6 @@ Once your proposal gets accepted you can track the progress and updates about th
 While you are curious about a specific feature request and you might be on way to create a proposal it might be the case that it might have already been requested and in that case we recommend you to participate in the discussions of the issue & upvote a proposal if you liked.
 
 Visit here for the list of porposals.
-(https://github.com/tatumio/roadmap/issues)
+(https://github.com/tatumio/roadmap/discussions)
 
 # Code of Conduct 👍
