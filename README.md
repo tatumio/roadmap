@@ -1,10 +1,10 @@
 
-# Public Roadmap 🛣️
+# [Public Roadmap](https://github.com/orgs/tatumio/projects/6) 🛣️
 
 We at Tatum foster building products that developers love & that's why we have this public roadmap for next 3 quarters, which is shaped with the feedback we have received from awesome devs like you & we always welcome anymore new feedback.
 
 
-# Creating a Proposal on the Board 📃
+# [Creating a Proposal on the Board](https://github.com/tatumio/roadmap/discussions) 📃
 Here how you can create a proposal for the roadmap in less then x steps
 
 Step 1:  Go to Discussions in this repo by clicking this [link](https://github.com/tatumio/roadmap/discussions)
