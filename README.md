@@ -50,3 +50,9 @@ Visit here for the list of proposals.
 [link](https://github.com/tatumio/roadmap/discussions)
 
 # Code of Conduct 👍
+
+* Respectful Communication: No personal attacks, trolling, or harassment. Maintain courtesy in all discussions.
+
+* Collaborative Mindset: Encourage collaboration and inclusivity. Welcome and respect all contributions.
+
+* Ethical Conduct: No disclosure of private information. Follow all laws and regulations.
