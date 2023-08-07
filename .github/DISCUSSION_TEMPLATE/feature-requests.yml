@@ -1,4 +1,4 @@
-title: "[Feature Request] "
+title: "Roadmap Proposal"
 labels: ["Feature Requests"]
 body:
   - type: markdown
@@ -6,13 +6,6 @@ body:
       value: |
         ## Proposal Template
         Please provide the following details for your proposal.
-  - type: input
-    id: proposal-title
-    attributes:
-      label: Proposal Title
-      description: A short and descriptive title for your proposal.
-    validations:
-      required: true
   - type: textarea
     id: proposal-description
     attributes:
